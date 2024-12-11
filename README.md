@@ -1,6 +1,6 @@
 # portfolio-https://gandham-lokesh-portfolio.netlify.app/
 
- A responsive portfolio website to showcase your projects, skills, and contact details. Built using modern web technologies.
+ A responsive portfolio website to showcase my projects, skills, and contact details. Built using modern web technologies.
 
 ## Features
 
@@ -21,18 +21,18 @@
 
 ![Portfolio Website Screenshot](https://via.placeholder.com/600x400)
 
-[Live Demo](#) (Replace with your live website link)
+[Live Demo](#) (https://gandham-lokesh-portfolio.netlify.app/)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/loki-4445/portfolio
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd portfolio-website
+   cd portfilo.html
    ```
 
 3. Open `index.html` in your browser to view the website.
