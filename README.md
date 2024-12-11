@@ -19,10 +19,13 @@
 
 ## Preview
 
-[image](https://github.com/user-attachments/assets/b1e16aa6-3f12-49c5-90a7-48b71aea4a66)
+![image](https://github.com/user-attachments/assets/b1e16aa6-3f12-49c5-90a7-48b71aea4a66)
 
 
-(https://gandham-lokesh-portfolio.netlify.app/)
+## Live Demo
+Check out the live version of the project here:  
+[Live Demo](https://gandham-lokesh-portfolio.netlify.app/)
+
 
 ## Installation
 
