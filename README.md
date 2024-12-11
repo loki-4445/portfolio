@@ -19,7 +19,8 @@
 
 ## Preview
 
-![Portfolio Website Screenshot](https://via.placeholder.com/600x400)
+![Portfolio Website Screenshot]![image](https://github.com/user-attachments/assets/b1e16aa6-3f12-49c5-90a7-48b71aea4a66)
+
 
 [Live Demo](#) (https://gandham-lokesh-portfolio.netlify.app/)
 
@@ -41,7 +42,7 @@
 
 1. Replace placeholder text and images in the `index.html` file with your own content.
 2. Update styles in the `style.css` file to personalize the design.
-3. (Optional) Use a deployment service like GitHub Pages, Netlify, or Vercel to host your site.
+3. Use a deployment service like GitHub Pages, Netlify, or Vercel to host your site.
 
 ## Folder Structure
 
