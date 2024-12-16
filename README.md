@@ -71,7 +71,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries, feel free to reach out:
 
 - **Email**: gandhamlokesh5@gmail.com
-- **LinkedIn**:https://www.linkedin.com/in/lokeshgandham/
-- **GitHub**: https://github.com/loki4445
+- **LinkedIn**: https://www.linkedin.com/in/lokeshgandham/
+- **GitHub**: https://github.com/loki-4445
 
 
